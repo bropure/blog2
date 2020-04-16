@@ -2,7 +2,7 @@
 layout: post
 title: FIRST
 excerpt: first blog
-photos: (https://i.loli.net/2020/04/16/YTmdWwvuokE34zf.png)
+cover_image: /images/1.jpg
 ---
 
 
