@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIRST
-excerpt: first blog
 cover_image: /images/1.jpg
 ---
 
