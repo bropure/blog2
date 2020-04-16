@@ -1,7 +1,10 @@
 ---
 layout: post
 title: FIRST
-cover_image: /images/1.jpg
+subtitle: my first blog
+cover_index: "https://i.loli.net/2020/04/16/YTmdWwvuokE34zf.png"
+cover_detail: "https://i.loli.net/2020/04/16/AVwRlU5F36hBWdz.jpg"
+
 ---
 
 
