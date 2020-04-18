@@ -1,41 +1,32 @@
 ---
 title: Film
-subtitle: Travel Photography
+subtitle: Shooting in film
 tags: Photography
-cover_index: "https://i.loli.net/2020/04/18/89tUwnaCmJscNuh.jpg"
-cover_detail: "https://i.loli.net/2020/04/16/AVwRlU5F36hBWdz.jpg"
-
+cover_index: "https://i.loli.net/2020/04/18/FLncDMq5ChKkfio.jpg"
 ---
 
+###### 3/2019
+###### taken by FUJICOLOR C200/AGFA VISTA400
 
-# Heading 1
+Shooting in film allows me to put in all my thoughts and life experience before clicking the button.  
+I think film photography is a game of light and shadow.
+<div  align="center">    
+<img src="https://i.loli.net/2020/04/18/H3CSgpr5xqiNe7M.jpg" style="zoom:30%" />  
 
-## Heading 2
+<img src="https://i.loli.net/2020/04/18/F2LiTWaVu1dQONq.jpg" style="zoom:30%" />  
 
-### Heading 3
+<img src="https://i.loli.net/2020/04/18/3qvTVpcHKNnOzuZ.jpg" style="zoom:30%" />   
 
-#### Heading 4
+<img src="https://i.loli.net/2020/04/18/TiPIXJn3xFQ951s.jpg" style="zoom:30%" />  
 
-##### Heading 5
+<img src="https://i.loli.net/2020/04/18/oUbwKemxHSXD53P.jpg" style="zoom:30%" />  
 
-###### Heading 6
+<img src="https://i.loli.net/2020/04/18/rXAOFDMgKWQLh7v.jpg" style="zoom:30%" />  
 
-Table:
+<img src="https://i.loli.net/2020/04/18/WLrKZkwtbMdi3EV.jpg" style="zoom:30%" />  
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ | :-------------: | ------------: |
-| col 3 is      | some wordy text |         $1600 |
-| col 2 is      |    centered     |           $12 |
-| zebra stripes |    are neat     |            $1 |
+<img src="https://i.loli.net/2020/04/18/JecTRVUs6B8KNC9.jpg" style="zoom:30%" /> 
 
-Lists:
 
-* Unordered list item 1.
-* Unordered list item 2.
 
-1. ordered list item 1.
-2. ordered list item 2.
-   + sub-unordered list item 1.
-   + sub-unordered list item 2.
-     + [x] something is DONE.
-     + [ ] something is NOT DONE.
+</div>

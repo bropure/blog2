@@ -2,19 +2,19 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
+  About: /about
  
 # Logo Image Source
 logo_src: /images/logo.svg
 
 # Theme Main Subtitle
-subtitle_main: This is Jane.
+subtitle_main: This is JaneFan, a student major in industrial design.
 
 # Theme Secondary subtitle
-susbtitle_secondary: Industrial design
+susbtitle_secondary: I will share my projects here, including coursework, photographs, videos and other works.
 
 # Footer About Section
-about_footer: projects based on p5.js
+about_footer: The projects published here are all my original works. If you have questions, please contact me. Thank you.
 
 # Default post title
 default_post_title: Untitled
@@ -34,9 +34,8 @@ show_dates:
 google_analytics:
 
 # Social Accounts
-twitter_url: https://twitter.com/?lang=en
-instagram_url: https://www.instagram.com/
-github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
-behance_url: https://www.behance.net/
-email_url: \#
-
+twitter_url: https://twitter.com/JANEJANEFAN
+instagram_url: https://www.instagram.com/moc.laer/
+github_url: https://github.com/bropure
+behance_url: https://www.behance.net/fanjane
+email_url: janefan1998@gmail.com

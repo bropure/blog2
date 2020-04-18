@@ -1,5 +1,10 @@
 ---
 title: about
-date: 2020-04-16 14:36:35
+cover_detail: 
 ---
-jdhssjdjsjlkhexo
+## HELLO!
+ This is JaneFan, a student major in industrial design.  
+ I will share my projects in this blog, including coursework, photographs, videos and other works.  
+ The projects published here are all my original works.  
+ If you have any questions, please contact me.  
+ Thank you.
