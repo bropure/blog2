@@ -1,8 +1,8 @@
 ---
-layout: post
-title: FIRST
-subtitle: my first blog
-cover_index: "https://i.loli.net/2020/04/16/YTmdWwvuokE34zf.png"
+title: Film
+subtitle: Travel Photography
+tags: Photography
+cover_index: "https://i.loli.net/2020/04/18/89tUwnaCmJscNuh.jpg"
 cover_detail: "https://i.loli.net/2020/04/16/AVwRlU5F36hBWdz.jpg"
 
 ---
