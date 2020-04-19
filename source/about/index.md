@@ -8,3 +8,6 @@ cover_detail:
  The projects published here are all my original works.  
  If you have any questions, please contact me.  
  Thank you.
+<div  align="center">  
+ <img src="https://i.loli.net/2020/04/19/iVMeAKpPIFO1EDs.jpg" style="zoom:25%" /> 
+ </div>
