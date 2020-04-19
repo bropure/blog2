@@ -8,8 +8,9 @@ cover_index: "https://i.loli.net/2020/04/19/kuaLAOKP31eRxTJ.jpg"
 ###### 7/2018
 ###### taken by Canon EOS 700D
 
-I have travelled to Tokyo and Osaka in Japan in the summer of 2018.  
-This was my first tour abroad and I tried to record my life by photography.
+I shot portrait for the first time.  
+Thanks to my friend for being model.  
+
 <div  align="center">    
 <img src="https://i.loli.net/2020/04/19/dkp2bIsK1MzXyZL.jpg" style="zoom:20%" />  
 
