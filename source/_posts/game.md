@@ -16,9 +16,9 @@ You can click to rotate these straggling water pipes and try to find a workable 
 The game is meant to remind people to wash their hands frequently with running water during the pandemic.  
 When water pipes are connected correctly, they will turn blue and water will come out washing away the bacteria and viruses on your hands. At same time, you can find these water pipes spell a Chinese word '净‘ which means clean.  
 
-<p class="codepen" data-height="911" data-theme-id="light" data-default-tab="result" data-user="bropure" data-slug-hash="eYNqjNJ" style="height: 911px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="eYNqjNJ">
-  <span>See the Pen < a href=" ">
-  eYNqjNJ</ a> by bropure (< a href="https://codepen.io/bropure">@bropure</ a>)
-  on < a href="https://codepen.io">CodePen</ a>.</span>
+<p class="codepen" data-height="915" data-theme-id="light" data-default-tab="result" data-user="bropure" data-slug-hash="KKpjbwq" style="height: 915px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="KKpjbwq">
+  <span>See the Pen <a href=" ">
+  KKpjbwq</a > by bropure (<a href="https://codepen.io/bropure">@bropure</a >)
+  on <a href="https://codepen.io">CodePen</a >.</span>
 </p >
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
